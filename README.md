@@ -1,5 +1,5 @@
 # VBA-challenge
-First repository- Module 2 homewrok
+First repository
 For this particular challenge, I was tasked with creating a script that loops through all the stocks for one year and outputs the following information:
 The ticker symbol, Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year
 The percentage chnage from the opening price at the beginning of a given year to the closing price at the end of that year.
